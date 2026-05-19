@@ -1,13 +1,13 @@
 # BLDC FOC Driver 
  
-Motorcontroller basert p† Field Oriented Control (FOC). 
+Motor controller based on Field Oriented Control (FOC). 
  
-## N›dvendige bibliotek: 
-- **SimpleFOC** - Install‚r via Arduino Library Manager 
-- **SparkFun_STUSB4500** - Install‚r via Arduino Library Manager (viss n›dvendig) 
+## Required Libraries: 
+- **SimpleFOC** - Install via Arduino Library Manager 
+- **SparkFun_STUSB4500** - Install via Arduino Library Manager (if needed) 
  
-## Installasjon: 
-1. Opne Arduino IDE 
-2. G† til **Sketch  Include Library  Manage Libraries** 
-3. S›k etter "SimpleFOC" og installer 
-4. S›k etter "SparkFun STUSB4500" og installer
+## Installation: 
+1. Open Arduino IDE 
+2. Go to **Sketch  Include Library  Manage Libraries** 
+3. Search for "SimpleFOC" and install 
+4. Search for "SparkFun STUSB4500" and install

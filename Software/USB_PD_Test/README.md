@@ -1,11 +1,11 @@
 # USB PD Test 
  
-Testprosjekt for STUSB4500 USB Power Delivery controller. 
+Test project for STUSB4500 USB Power Delivery controller. 
  
-## N›dvendige bibliotek: 
-- **SparkFun_STUSB4500** - Install‚r via Arduino Library Manager 
+## Required Libraries: 
+- **SparkFun_STUSB4500** - Install via Arduino Library Manager 
  
-## Installasjon: 
-1. Opne Arduino IDE 
-2. G† til **Sketch  Include Library  Manage Libraries** 
-3. S›k etter "SparkFun STUSB4500" og installer
+## Installation: 
+1. Open Arduino IDE 
+2. Go to **Sketch  Include Library  Manage Libraries** 
+3. Search for "SparkFun STUSB4500" and install
